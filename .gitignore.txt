@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/
+*.csv
+*.xlsx
+*.h5
+*.pkl
+
+# OS
+.DS_Store
+
+# Secrets
+kaggle.json
+.env
